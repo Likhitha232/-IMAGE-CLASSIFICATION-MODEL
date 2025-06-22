@@ -22,6 +22,8 @@ In summary, this code illustrates the practical application of machine learning 
 
 *OUTPUT:*
 
+![Image](https://github.com/user-attachments/assets/ef203485-b9f0-48b0-a1ec-308740f214d7)
+
 
 
 
